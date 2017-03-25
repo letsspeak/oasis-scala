@@ -1,5 +1,6 @@
 .metadata
 bin/
+target/
 tmp/
 *.tmp
 *.bak
@@ -51,6 +52,7 @@ local.properties
 
 # Scala IDE specific (Scala & Java development for Eclipse)
 .cache-main
+.cache-tests
 .scala_dependencies
 .worksheet
 
