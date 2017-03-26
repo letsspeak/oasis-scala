@@ -1,4 +1,4 @@
-# Oasis [![Build Status](https://travis-ci.org/letsspeak/Oasis.png)](https://travis-ci.org/letsspeak/Oasis)
+# Oasis [![Build Status](https://travis-ci.org/letsspeak/oasis.png)](https://travis-ci.org/letsspeak/oasis)
 
 ## Requirements
 
