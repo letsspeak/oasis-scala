@@ -26,10 +26,31 @@ configurations {
 }
 
 dependencies {
+	
+	//
+	// compile dependencies
+	//
+
+	// Lang
 	compile 'org.scala-lang:scala-library:2.11.8'
+
+	// Database
+	compile 'mysql:mysql-connector-java'
+	compile 'org.springframework.boot:spring-boot-starter-data-rest'
+	compile 'org.springframework.boot:spring-boot-starter-data-jpa'
+	compile "org.flywaydb:flyway-core:4.1.2"
+
+	// Web
 	compile 'org.springframework.boot:spring-boot-starter-web'
-	compile 'org.springframework.boot:spring-boot-starter-jetty'
 	compile 'org.springframework.boot:spring-boot-starter-thymeleaf'
+
+	// Web Server
+	compile 'org.springframework.boot:spring-boot-starter-jetty'
+
+	//
+	// testCompile dependencies
+	//
+
 	testCompile 'org.springframework.boot:spring-boot-starter-test'
 	testCompile 'org.specs2:specs2-core_2.11:3.8.6'
 	testCompile 'org.specs2:specs2-junit_2.11:3.8.6'

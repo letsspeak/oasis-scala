@@ -1,6 +1,6 @@
 # Oasis [![Build Status](https://travis-ci.org/letsspeak/Oasis.png)](https://travis-ci.org/letsspeak/Oasis)
 
-# How to Develop 
+## Requirements
 
 - Install JDK1.8
 - Install Eclipse
