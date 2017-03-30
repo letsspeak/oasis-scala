@@ -1,6 +1,6 @@
 # oasis-scala [![Build Status](https://travis-ci.org/letsspeak/oasis.png)](https://travis-ci.org/letsspeak/oasis)
 
-Will reborn in Java...
+Will reborn in Java with Spring Framework...
 
 # How to Develop 
 
