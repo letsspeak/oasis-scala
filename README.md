@@ -1,4 +1,6 @@
-# Oasis [![Build Status](https://travis-ci.org/letsspeak/oasis.png)](https://travis-ci.org/letsspeak/oasis)
+# oasis-scala [![Build Status](https://travis-ci.org/letsspeak/oasis.png)](https://travis-ci.org/letsspeak/oasis)
+
+Will reborn in Java...
 
 # How to Develop 
 
